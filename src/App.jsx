@@ -103,14 +103,12 @@ function LoginPage({ error, onLogin }) {
       <div className="mx-auto grid min-h-screen max-w-6xl items-center gap-10 px-6 py-12 lg:grid-cols-[1.1fr_0.9fr]">
         <section className="text-white">
           <h1 className="text-5xl font-black tracking-tight sm:text-6xl">
-            TaskFlow
-          </h1>
+            CloudFlow</h1>
           <p className="mt-5 max-w-xl text-lg leading-8 text-slate-300">
-            Organiza tus pendientes, revisa tu avance y mantén tus tareas al día
-            desde un solo lugar.
+            Gestiona tus actividades y controla tu progreso desde una plataforma desplegada en AWS.
           </p>
           <p className="mt-3 max-w-xl text-md leading-8 text-slate-300">
-            Proyecto desarrollado para ANDES.
+            Proyecto final de Erick Peña - Cloud AWS.
           </p>
         </section>
 
